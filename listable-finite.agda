@@ -1,4 +1,5 @@
--- Agda version 2.6.0.1
+-- Another implementation of lstbl2deq (see http://firsov.ee/finset/)
+-- Agda version 2.6.0.1 ; standard library 1.1
 open import Data.Product
 open import Data.List
 open import Data.Nat
